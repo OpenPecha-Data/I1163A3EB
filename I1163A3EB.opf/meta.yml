@@ -1,0 +1,14 @@
+id: I1163A3EB
+default_language: en
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-05-29 08:55:49.351352
+last_modified: 2023-05-29 08:55:49.351375
+bases:
+  8D98:
+    title: Magnetizing (Wangdü) Prayer
+    base_file: 8D98.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
